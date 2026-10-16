@@ -1,10 +1,7 @@
 # Hi there 👋
 
-I'm a long-time web engineer who's currently balancing fatherhood (my daughter Hazel is 9 months old as of August, 2023) with freelancing and building income-generating assets like DenoDevs ([WIP repo here](https://github.com/kevingorski/denodevs.io)).
+I'm a long-time web engineer who needs to update this at some point.
 
-- 🌱 I’m currently learning Deno and Fresh in hopes that it proves to be a better DevEx than Node.js and worth working with for the long term
-- 🌱 I'm also learning how to market and distribute my work more widely
-- 👀 The best place to see what I'm up to is [my professional site](https://kgsoftwarellc.com)
 - 📫 My personal email is listed to the left if you'd like to reach out!
 <!--
 **kevingorski/kevingorski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
